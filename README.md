@@ -25,8 +25,6 @@ The final experience project :
 
 [Co-Creat World](https://www.ccw.site/detail/6654acbdd2694c0af571bd7a) ; [COCREA](https://cocrea.world/@LanwyWriteXU/RadiumOS)
 
-<iframe id="iframe-cocrea" width="600px" height="303px" src="https://cocrea.world/embed/1798231283069927426?type=player&showCreator=true&showOperating=false" title="RadiumOS/Scratch project hosted on Cocrea." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
-
 ## The Remastered Edition
 
 ### A0.1.x
