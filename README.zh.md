@@ -23,17 +23,6 @@
 
 [共创世界](https://www.ccw.site/detail/6654acbdd2694c0af571bd7a) ; [COCREA](https://cocrea.world/@LanwyWriteXU/RadiumOS)
 
-<iframe
-      width="600px"
-      height="400px"
-      src="https://www.ccw.site/embed?id=6654acbdd2694c0af571bd7a&type=player"
-      title="RadiumOS - Cyberexplorer - 共创世界(ccw.site) - Scratch、游戏、动画、漫画、小说、编程创作社区"
-      frameBorder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowFullScreen
-      scrolling="no"
-    ></iframe>
-
 ## 新的重构
 
 ### A0.1.x
