@@ -1,7 +1,7 @@
 # ROSP - 镭OS开源项目
 > RadiumOS 的开源代码，历代，所有
 
-[The English Edtion](https://github.com/LanwyWriteXU/ROSP/main/README.md)
+[The English Edtion](https://github.com/LanwyWriteXU/ROSP/blob/main/README.md)
 
 ## 旧的架构……
 
