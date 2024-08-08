@@ -1,8 +1,6 @@
 # ROSP - 镭OS开源项目
 > RadiumOS 的开源代码，历代，所有
 
-[The English Edtion](https://github.com/LanwyWriteXU/ROSP/blob/main/README.md)
-
 ## 旧的架构……
 
 ### A0.1.X版本
@@ -23,7 +21,18 @@
 
 最后的体验项目
 
-[Co-Creat World](https://www.ccw.site/detail/6654acbdd2694c0af571bd7a)
+[共创世界](https://www.ccw.site/detail/6654acbdd2694c0af571bd7a) ; [COCREA](https://cocrea.world/@LanwyWriteXU/RadiumOS)
+
+<iframe
+      width="600px"
+      height="400px"
+      src="https://www.ccw.site/embed?id=6654acbdd2694c0af571bd7a&type=player"
+      title="RadiumOS - Cyberexplorer - 共创世界(ccw.site) - Scratch、游戏、动画、漫画、小说、编程创作社区"
+      frameBorder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowFullScreen
+      scrolling="no"
+    ></iframe>
 
 ## 新的重构
 
@@ -37,4 +46,6 @@
 - [ ] 制作顶栏
 - [ ] 制作程序坞/任务栏
 
-等待版本更新，并且会上传到 [GitHub Pages](https://radium.extendser.top) 以在线查看
+版本更新后，将会将源码上传至该库并在 [GitHub Pages](https://radium.extendser.top) 以在线查看。
+
+<font color = pink>将在共创世界和COCREA同步更新！（COCREA的更新时间延后）</font>

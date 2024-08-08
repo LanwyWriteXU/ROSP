@@ -1,38 +1,44 @@
-# ROSP - 镭OS开源项目
-> RadiumOS 的开源代码，历代，所有
+# ROSP - RadiumOS Open Source Project
+> RadiumOS open source code, history, all
 
-## 旧的架构……
+[跳转至中文文档](https://github.com/LanwyWriteXU/ROSP/blob/main/README.zh.md)
 
-### A0.1.X版本
+## The Old Version
 
-在该版本中，主要更新了窗口的控制内容，和内容分层定位。
+### The A0.1.X Version
 
-该版本有20个分项目，它们都是每个搭建代码时的快照。其中最完整的版本是A0.1.0628版本，创建于2024年6月28日。
+In this version, the main update window control content, and content hierarchical positioning.
 
-因为是单纯的快照，所以所有版本都没有注释等。
+This release has 20 subprojects, which are snapshots of each build code. The most complete version is version A0.1.0628, which was created on June 28, 2024.
 
-> 有的人活着，他已经死了
+Since it is a simple snapshot, all versions have no comments, etc.
 
-### A0.2.X版本
+> Some people are alive, he's dead
 
-在该版本中，制作了少许UI优化和动画更新，然而没有做完。
+### The A0.2.X Version
 
-由于代码原因，我打算重构代码。
+In this version, a few UI optimizations and animation updates were made, but they were not finished.
 
-最后的体验项目
+I'm going to refactor the code for code reasons.
 
-[Co-Creat World](https://www.ccw.site/detail/6654acbdd2694c0af571bd7a)
+The final experience project :
 
-## 新的重构
+[Co-Creat World](https://www.ccw.site/detail/6654acbdd2694c0af571bd7a) ; [COCREA](https://cocrea.world/@LanwyWriteXU/RadiumOS)
+
+<iframe id="iframe-cocrea" width="600px" height="303px" src="https://cocrea.world/embed/1798231283069927426?type=player&showCreator=true&showOperating=false" title="RadiumOS/Scratch project hosted on Cocrea." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+
+## The Remastered Edition
 
 ### A0.1.x
 
-同样，该版本也需要制作UI。
+Again, this release requires making the UI.
 
-- [ ] 制作基础的窗户
-  - [ ] 窗口，标题栏
-  - [ ] 窗口本体
-- [ ] 制作顶栏
-- [ ] 制作程序坞/任务栏
+- [ ] Make the base of the window
+    - [ ] window, title bar
+    - [ ] Window body
+- [ ] Make top bar
+- [ ] Make Dock/Taskbar
 
-等待版本更新，并且会上传到 [GitHub Pages](https://radium.extendser.top) 以在线查看
+Version updated,I will upload source to this library and in the [Github](https://radium.extendser.top) to view online.
+
+<font color = pink>Will be updated simultaneously in Co-create World and COCREA! (COCREA update delayed)</font>
