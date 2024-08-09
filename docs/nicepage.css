@@ -31526,26 +31526,29 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-btn-1 {
-  background-image: none;
-  box-shadow: 0 0 8px 0 rgba(128,128,128,1);
   border-style: none;
   font-size: 1.25rem;
   animation-duration: 1000ms;
   font-weight: 700;
   text-transform: uppercase;
+  letter-spacing: 1px;
   margin: -45px 0 0 auto;
-  padding: 10px 55px 10px 54px;
 }
 
 .u-header .u-btn-2 {
   border-style: none none solid;
-  margin: -40px 275px 28px auto;
+  margin: -40px 235px 28px auto;
+  padding: 0;
+}
+
+.u-header .u-btn-3 {
+  border-style: none none solid;
+  margin: -27px -50px 60px auto;
   padding: 0;
 }
 @media (max-width: 1199px) {
   .u-header .u-image-1 {
     width: auto;
-    margin-top: 7px;
   }
 
   .u-header .u-text-1 {
@@ -31553,50 +31556,73 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-right: 529px;
   }
 
-  .u-header .u-btn-1 {
-    margin-bottom: 17px;
-  }
-
-  .u-header .u-btn-2 {
-    margin-top: -40px;
-    margin-right: 75px;
+  .u-header .u-btn-3 {
+    margin-top: -27px;
   }
 }
 @media (max-width: 991px) {
-  .u-header .u-image-1 {
-    margin-top: 9px;
-  }
-
   .u-header .u-text-1 {
     margin-right: 311px;
   }
 
   .u-header .u-btn-1 {
-    margin-bottom: 0;
+    padding: 10px 22px 10px 21px;
   }
 
   .u-header .u-btn-2 {
-    margin-right: 0;
+    margin-right: 190px;
   }
 }
 @media (max-width: 767px) {
+  .u-header .u-image-1 {
+    margin-top: 7px;
+  }
+
   .u-header .u-text-1 {
+    margin-top: -58px;
     margin-right: 176px;
+  }
+
+  .u-header .u-btn-1 {
+    margin-top: -38px;
+    margin-right: 0;
+    padding-right: 11px;
+    padding-left: 11px;
+  }
+
+  .u-header .u-btn-2 {
+    margin: -21px 10px 11px 73px;
   }
 }
 @media (max-width: 575px) {
   .u-header .u-image-1 {
-    margin-top: 6px;
+    margin-top: 9px;
+    width: auto;
   }
 
   .u-header .u-text-1 {
     font-size: 1.25rem;
-    margin-top: -48px;
-    margin-right: 16px;
+    margin-top: -59px;
+    margin-right: 25px;
+    margin-left: 64px;
   }
 
   .u-header .u-btn-1 {
-    margin-bottom: 21px;
+    border-style: none none solid;
+    font-size: 1rem;
+    font-weight: normal;
+    text-transform: none;
+    margin-top: 0;
+    margin-right: 0;
+  }
+
+  .u-header .u-btn-2 {
+    margin: 0 0 0 64px;
+  }
+
+  .u-header .u-btn-3 {
+    margin-right: 0;
+    margin-bottom: 7px;
   }
 }
 .u-footer {
